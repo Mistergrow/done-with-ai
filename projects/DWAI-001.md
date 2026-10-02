@@ -32,11 +32,21 @@ experiment without importing its source or assets.
 
 ## Source status
 
-Source publication: under review.
+Source status: Published.
 
-The source code is not approved for publication. A separate source, asset, and
-license audit will take place in the development directory before any source
-publication. No open-source availability is claimed.
+Public source: [Sommer '90](https://github.com/Mistergrow/sommer-90).
+
+Publication type: Audited release-correlated source snapshot.
+
+Code license: MIT — Christopher Spitzner, 2026.
+
+Soundtrack: 56 authorized replacement tracks.
+
+Soundtrack license: CC BY 4.0 — Christopher Spitzner, 2026.
+
+The public source snapshot intentionally excludes material whose redistribution
+rights were not established for source publication. It does not contain every
+runtime asset and is not a complete buildable distribution.
 
 ## Metrics and retrospective
 

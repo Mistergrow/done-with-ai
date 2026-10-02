@@ -21,11 +21,15 @@ Sommer '90 is a retro-computing narrative/management game about discovering
 computers in the 1990s. Read its [experiment record](projects/DWAI-001.md) for
 the workflow, shipped result, and source status. Bunkercrew is in development.
 
+- PLAY: [Sommer '90 on itch.io](https://misterfloppy.itch.io/sommer-90)
+- SOURCE: [Sommer '90 public source](https://github.com/Mistergrow/sommer-90)
+- EXPERIMENT RECORD: [DWAI-001](projects/DWAI-001.md)
+
 The [registry](registry/projects.json) is canonical for project identity and
 status. Development happens in separate repositories; this repository holds
 publication records and approved snapshots. Source is published when licensing,
-privacy, security, and redistribution rights allow it. Sommer '90 source
-publication is under review; no project source is included here.
+privacy, security, and redistribution rights allow it. Sommer '90 source is
+published in its separate public repository; no project source is included here.
 
 Read [MANIFESTO.md](MANIFESTO.md) for the approach,
 [GOVERNANCE.md](GOVERNANCE.md) for publication rules,
