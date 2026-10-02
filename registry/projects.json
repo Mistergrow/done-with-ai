@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "id": "DWAI-001",
+      "name": "Sommer '90",
+      "status": "published",
+      "release_url": "https://misterfloppy.itch.io/sommer-90"
+    },
+    {
+      "id": "DWAI-002",
+      "name": "Bunkercrew",
+      "status": "development"
+    }
+  ]
+}
